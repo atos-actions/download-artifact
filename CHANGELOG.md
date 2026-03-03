@@ -1,3 +1,13 @@
+## [2.2.0](https://github.com/atos-actions/download-artifact/compare/v2.1.1...v2.2.0) (2026-03-03)
+
+### Features
+
+* **deps:** bump actions/download-artifact from 7 to 8 in the actions-artifacts group ([#254](https://github.com/atos-actions/download-artifact/issues/254)) ([f23b148](https://github.com/atos-actions/download-artifact/commit/f23b148234928d736274444b7d779adfb54c34e6))
+
+### Dependencies and Other Build Updates
+
+* **release:** correct releaseRules structure in .releaserc ([8ce5fcd](https://github.com/atos-actions/download-artifact/commit/8ce5fcde37b0fc3ab0df4a8d68547c0d2246f9df))
+
 ## <small>2.1.1 (2025-12-16)</small>
 
 * build(deps): bump actions/download-artifact from 6 to 7 (#242) ([3718f75](https://github.com/atos-actions/download-artifact/commit/3718f75)), closes [#242](https://github.com/atos-actions/download-artifact/issues/242)

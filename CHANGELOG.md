@@ -1,3 +1,9 @@
+## [2.2.3](https://github.com/atos-actions/download-artifact/compare/v2.2.2...v2.2.3) (2026-04-02)
+
+### Dependencies and Other Build Updates
+
+* **deps:** bump lodash-es from 4.17.23 to 4.18.1 ([#260](https://github.com/atos-actions/download-artifact/issues/260)) ([29fa825](https://github.com/atos-actions/download-artifact/commit/29fa82527e33f185decc5ced300ce535c83637c6))
+
 ## [2.2.2](https://github.com/atos-actions/download-artifact/compare/v2.2.1...v2.2.2) (2026-03-27)
 
 ### Dependencies and Other Build Updates

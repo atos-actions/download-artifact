@@ -1,3 +1,18 @@
+## [2.2.5](https://github.com/atos-actions/download-artifact/compare/v2.2.4...v2.2.5) (2026-06-10)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** bump @commitlint/cli from 20.5.0 to 20.5.2 in the commitlint group ([#264](https://github.com/atos-actions/download-artifact/issues/264)) ([5bbec9a](https://github.com/atos-actions/download-artifact/commit/5bbec9a5f7019d4334622e5a21b57c1b6f6c4553))
+* **deps-dev:** bump fast-uri from 3.1.0 to 3.1.2 ([#266](https://github.com/atos-actions/download-artifact/issues/266)) ([d7922a1](https://github.com/atos-actions/download-artifact/commit/d7922a118d163986b0389c0414f4de02186a3312))
+* **deps-dev:** bump prettier from 3.8.1 to 3.8.2 ([#262](https://github.com/atos-actions/download-artifact/issues/262)) ([09d3758](https://github.com/atos-actions/download-artifact/commit/09d37582d22e8a281017f071b825f2e0717b20d5))
+* **deps-dev:** bump prettier from 3.8.2 to 3.8.3 ([#263](https://github.com/atos-actions/download-artifact/issues/263)) ([577d557](https://github.com/atos-actions/download-artifact/commit/577d5577c54a5e69b087b10ce6276463c4802075))
+* **deps-dev:** bump prettier from 3.8.3 to 3.8.4 ([#270](https://github.com/atos-actions/download-artifact/issues/270)) ([6a74825](https://github.com/atos-actions/download-artifact/commit/6a7482500391e5e443320ba62de979d21854baba))
+* **deps-dev:** bump the commitlint group with 2 updates ([#265](https://github.com/atos-actions/download-artifact/issues/265)) ([3c97c69](https://github.com/atos-actions/download-artifact/commit/3c97c69229f1bbd905c5fa66ce9b85b22a06115e))
+* **deps-dev:** bump the commitlint group with 2 updates ([#267](https://github.com/atos-actions/download-artifact/issues/267)) ([01d5ace](https://github.com/atos-actions/download-artifact/commit/01d5acea5ff1de2b80c15e6700d7a1fbfe73f823))
+* **deps-dev:** bump the commitlint group with 2 updates ([#268](https://github.com/atos-actions/download-artifact/issues/268)) ([b03fbaa](https://github.com/atos-actions/download-artifact/commit/b03fbaac7e1d3ceafcd73ff3c732666b8bbab111))
+* **deps-dev:** bump the commitlint group with 2 updates ([#269](https://github.com/atos-actions/download-artifact/issues/269)) ([b9cc7d5](https://github.com/atos-actions/download-artifact/commit/b9cc7d5143e794eca38972422b828f9b8bfa0bb3))
+* **deps:** bump semantic-release from 25.0.3 to 25.0.5 ([#271](https://github.com/atos-actions/download-artifact/issues/271)) ([3aa0508](https://github.com/atos-actions/download-artifact/commit/3aa05084d36add0015fbe579784961ca3e922f2a))
+
 ## [2.2.4](https://github.com/atos-actions/download-artifact/compare/v2.2.3...v2.2.4) (2026-04-02)
 
 ### Dependencies and Other Build Updates

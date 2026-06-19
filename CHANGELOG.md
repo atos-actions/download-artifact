@@ -1,3 +1,9 @@
+## [2.2.6](https://github.com/atos-actions/download-artifact/compare/v2.2.5...v2.2.6) (2026-06-19)
+
+### Dependencies and Other Build Updates
+
+* **deps:** bump actions/checkout from 6 to 7 ([#272](https://github.com/atos-actions/download-artifact/issues/272)) ([a795de1](https://github.com/atos-actions/download-artifact/commit/a795de11d89108eadee077f7dd30645435b74d76))
+
 ## [2.2.5](https://github.com/atos-actions/download-artifact/compare/v2.2.4...v2.2.5) (2026-06-10)
 
 ### Dependencies and Other Build Updates

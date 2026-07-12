@@ -1,3 +1,5 @@
+## [2.2.8](https://github.com/atos-actions/download-artifact/compare/v2.2.7...v2.2.8) (2026-07-12)
+
 ## [2.2.7](https://github.com/atos-actions/download-artifact/compare/v2.2.6...v2.2.7) (2026-06-19)
 
 ### Dependencies and Other Build Updates

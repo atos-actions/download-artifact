@@ -1,3 +1,5 @@
+## [2.2.30](https://github.com/atos-actions/download-artifact/compare/v2.2.29...v2.2.30) (2026-11-19)
+
 ## [2.2.29](https://github.com/atos-actions/download-artifact/compare/v2.2.28...v2.2.29) (2026-10-21)
 
 ## [2.2.28](https://github.com/atos-actions/download-artifact/compare/v2.2.27...v2.2.28) (2026-10-18)

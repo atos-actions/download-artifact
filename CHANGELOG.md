@@ -1,3 +1,9 @@
+## [2.2.31](https://github.com/atos-actions/download-artifact/compare/v2.2.30...v2.2.31) (2026-11-20)
+
+### Dependencies and Other Build Updates
+
+* **deps:** bump semantic-release from 25.0.9 to 26.0.1 in the semantic-release group ([#320](https://github.com/atos-actions/download-artifact/issues/320)) ([e4d2da1](https://github.com/atos-actions/download-artifact/commit/e4d2da10032366519ad156d72e222599e0c3920b))
+
 ## [2.2.30](https://github.com/atos-actions/download-artifact/compare/v2.2.29...v2.2.30) (2026-11-19)
 
 ## [2.2.29](https://github.com/atos-actions/download-artifact/compare/v2.2.28...v2.2.29) (2026-10-21)
